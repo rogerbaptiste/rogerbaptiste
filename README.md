@@ -1,7 +1,7 @@
 ### Hi there my name is Roger!
 
 
-- 🔭 I’m currently working with Python, JavaScript, AJAX, Angular, Bootstrap, HTML, CSS, MySQL
+- 🔭 I’m currently working with Python, JavaScript, AJAX, Angular, Bootstrap, :HTML: , CSS, MySQL
 
 - 🌱 I’m currently learning REACT 
 
