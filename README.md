@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning REACT 
 
-- 🎇 Hobbies: Coding :curry:Cooking :video_game:Gaming Watching Anime :basketball:Playing Basketball
+- 🎇 Hobbies: Coding :curry:Cooking :video_game:Gaming 🍣:ramen:Watching Anime :basketball:Playing Basketball
 
 - 📫 How to reach me: mailto:rogelainbaptiste@outlook.com
