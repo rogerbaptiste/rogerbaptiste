@@ -7,4 +7,4 @@
 
 - 🎇 Hobbies:  :curry:Cooking  :video_game:Gaming  🍣:ramen:Watching  Anime  :basketball:Playing Basketball
 
-- 📫 Reach me via email:  <a href="mailto:rogelainbaptiste@outlook.com"> :email:</a>
+- 📫 Reach me via email:  <a href="mailto:rogelainbaptiste@outlook.com"> Here ->:email:<- </a>
